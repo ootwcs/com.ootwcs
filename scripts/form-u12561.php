@@ -30,6 +30,9 @@ $form = array(
 		'from' => 'drwhite@ootwcs.com',
 		'to' => 'drwhite@ootwcs.com'
 	),
+	'recaptcha2' => array(
+		'private_key' => '6LeNmRATAAAAAP2FWOJVMZ5S2DjFd708HVLlQnTO'
+	),
 	'fields' => array(
 		'custom_U12562' => array(
 			'order' => 1,
@@ -65,6 +68,16 @@ $form = array(
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Agree to our Privacy Policy\' is required.'
+			)
+		),
+		'g-recaptcha-response' => array(
+			'order' => 5,
+			'type' => 'recaptcha2',
+			'label' => 'Image Verification',
+			'required' => true,
+			'errors' => array(
+				'required' => 'Field \'Image Verification\' is required.',
+				'format' => 'Incorrect reCAPTCHA 2.0 value.'
 			)
 		)
 	)

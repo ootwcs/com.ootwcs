@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ootwcs.com" resolutions="1x" timestamp="1521139106776">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ootwcs.com" resolutions="1x" timestamp="1521139327102">
   <folder name="css">
     <file name="site_global.css" crc="3997337200"/>
     <file name="master_a-master.css" crc="353467253" ref="out-of-this-world-computer-systems-privacy-policy:out-of-this-world-computer-systems-business-solutions-contact-us:index:out-of-this-world-computer-systems-business-solutions:out-of-this-world-computer-systems-business-solutions-thank-you"/>
@@ -155,9 +155,9 @@
     <file name="out-of-this-world-computer-systems---business-solutions-contact-us-favicon.ico" crc="4289942330" ref="out-of-this-world-computer-systems-business-solutions-contact-us"/>
     <file name="out-of-this-world-computer-systems---business-solutions-thank-you-favicon.ico" crc="4289942330" ref="out-of-this-world-computer-systems-business-solutions-thank-you"/>
   </folder>
-  <file name="index.html" crc="245650616" seo="true" mt="1521139027236" redirect="true"/>
-  <file name="out-of-this-world-computer-systems-privacy-policy.html" crc="4260097548" seo="true" mt="1521139071351" redirect="true"/>
-  <file name="out-of-this-world-computer-systems-business-solutions.html" crc="193895448" seo="true" mt="1521139036433" redirect="true"/>
-  <file name="out-of-this-world-computer-systems-business-solutions-contact-us.html" crc="4046958977" seo="true" mt="1521139054477" redirect="true"/>
-  <file name="out-of-this-world-computer-systems-business-solutions-thank-you.html" crc="3775791832" seo="true" mt="1521139080048" redirect="true"/>
+  <file name="index.html" crc="245650616" seo="true" mt="1521139295093" redirect="true"/>
+  <file name="out-of-this-world-computer-systems-privacy-policy.html" crc="4260097548" seo="true" mt="1521139295093" redirect="true"/>
+  <file name="out-of-this-world-computer-systems-business-solutions.html" crc="193895448" seo="true" mt="1521139295093" redirect="true"/>
+  <file name="out-of-this-world-computer-systems-business-solutions-contact-us.html" crc="4046958977" seo="true" mt="1521139295093" redirect="true"/>
+  <file name="out-of-this-world-computer-systems-business-solutions-thank-you.html" crc="3775791832" seo="true" mt="1521139295093" redirect="true"/>
 </manifest>
